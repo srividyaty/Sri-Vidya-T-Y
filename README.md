@@ -109,25 +109,6 @@ Python, CNN, DenseNet121, Deep Learning
 * Deep learning-based image classification
 * Model validation and testing in progress
 
----
-
-## 3. DSA & Programming Practice
-
-A collection of programming and Data Structures and Algorithms implementations developed while strengthening problem-solving and programming fundamentals.
-
-### Languages
-
-Python, Java, C
-
-### Concepts
-
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Data Structures
-* Algorithms
-* Object-Oriented Programming
 
 ---
 
@@ -175,7 +156,7 @@ Python, Java, C
 
 ### GitHub
 
-https://github.com/your-github-username
+https://github.com/your-github-srividyaty
 
 ### LinkedIn
 
